@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19515221430",
+    "project_id": "propsofttracker",
+    "storage_bucket": "propsofttracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19515221430:android:942d8a0dad3998887c8d17",
+        "android_client_info": {
+          "package_name": "com.propsoft.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19515221430-q77amb039m4upmiuk9icccc9aauvko8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lqxtpS89lOcJSAcaZNDs2T59Vu4I06k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19515221430-q77amb039m4upmiuk9icccc9aauvko8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
