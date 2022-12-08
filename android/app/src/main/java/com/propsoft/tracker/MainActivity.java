@@ -1,4 +1,4 @@
-package com.transistorsoft.flutterbackgroundgeolocationexample;
+package com.propsoft.tracker;
 
 import android.os.Build;
 
